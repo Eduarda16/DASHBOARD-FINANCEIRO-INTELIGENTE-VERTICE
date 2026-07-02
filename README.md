@@ -5,7 +5,7 @@ O painel financeiro desenvolvido para a empresa Vértice foi estruturado com foc
 
 A solução entrega uma visão consolidada da saúde financeira da empresa, combinando indicadores financeiros tradicionais com análises inteligentes de comportamento de despesas.
 
-OBJETIVO DO PAINEL
+OBJETIVO DO PAINEL: 
 Centralizar e transformar dados financeiros em informações acionáveis para:
 
 Controle de despesas
@@ -16,7 +16,7 @@ Detecção de riscos financeiros
 Identificação de oportunidades de economia
 Suporte estratégico para decisões gerenciais
 
-VISÃO FINANCEIRA GERAL
+VISÃO FINANCEIRA GERAL:
 A camada principal do painel apresenta os indicadores macro da operação financeira.
 
 KPIs monitorados:
@@ -73,7 +73,7 @@ renegociar contratos
 revisar políticas internas
 controlar centros de custo
 
-📊 ANÁLISE COMPORTAMENTAL FINANCEIRA
+📊 ANÁLISE COMPORTAMENTAL FINANCEIRA:
 A camada de comportamento financeiro permite entender:
 frequência de compras
 concentração de gastos
