@@ -115,7 +115,7 @@ Tomada de decisão orientada por dados
 Redução de decisões baseadas apenas em percepção
 Visão estratégica do consumo
 
-CONCLUSÃO
+CONCLUSÃO: 
 O projeto desenvolvido para a Vértice transforma dados financeiros em inteligência operacional, oferecendo uma visão completa da saúde financeira da empresa através de análises descritivas, comportamentais e estratégicas.
 
 A solução não apenas monitora indicadores, mas também gera insights capazes de apoiar decisões mais rápidas, assertivas e orientadas por dados.
